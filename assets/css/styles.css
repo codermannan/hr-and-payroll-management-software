@@ -1,0 +1,180 @@
+.panel-body .sample  {
+    margin: 0 0 26px;
+    
+}
+.panel-body .sample1{
+    background: #FFF;
+    
+}
+.panel-body .sample1 th {
+    border: 1px solid #c4c4c4; 
+    height: 25px; 
+    font-size: 11px;
+    font-family: verdana;
+    padding: 4px 4px 4px 4px; 
+    border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px; 
+    box-shadow: 0px 0px 8px #d9d9d9; 
+    -moz-box-shadow: 0px 0px 8px #d9d9d9; 
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9; 
+}
+.panel-body .sample1 td {
+   border: 1px solid #7bc1f7; 
+    //height: 10px; 
+    font-size: 11px;
+    font-family: verdana;
+    padding: 0px 5px 0px 5px; 
+    border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px; 
+    box-shadow: 0px 0px 8px #d9d9d9; 
+    -moz-box-shadow: 0px 0px 8px #d9d9d9; 
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9; 
+}
+.panel-body .sample1 .even td {
+    background: #FFF;
+}
+.panel-body #pp {
+ background:#efefef;
+ border:1px solid #ccc;
+}
+
+#selection-table select
+{
+    width: 12em;
+}
+#info-table select
+{
+    width: 15em;
+}
+#info-table input[type='text']
+{
+     width: 15em;
+}
+#info-table textArea
+{
+    width: 15em;
+}
+#back-to-add
+{
+    text-align: right;
+}
+.login_box{
+	width:352px;
+	height:266;
+	margin: 75px auto -1px auto; 
+}
+.login_box_body{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#273e4e;
+	line-height:15px;
+	background:url(../images/login_box_05.jpg) repeat-x;
+	width:332px;
+	height:240;
+}
+/*********************Entry Panel Table****************************************/
+#entry-panel input[type="text"]
+{
+    border: 1px solid #c4c4c4; 
+    height: 22px; 
+    width: 150px; 
+    font-size: 11px;
+    font-family: verdana;
+    padding: 4px 4px 4px 4px; 
+    border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px; 
+    box-shadow: 0px 0px 8px #d9d9d9; 
+    -moz-box-shadow: 0px 0px 8px #d9d9d9; 
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9; 
+}
+#entry-panel input[type="text"]:focus
+{
+    outline: none; 
+    border: 1px solid #7bc1f7; 
+    box-shadow: 0px 0px 8px #7bc1f7; 
+    -moz-box-shadow: 0px 0px 8px #7bc1f7; 
+    -webkit-box-shadow: 0px 0px 8px #7bc1f7; 
+}
+#entry-panel input[type="range"]
+{
+    border: 1px solid #c4c4c4; 
+    height: 20px; 
+    width: 150px; 
+    font-size: 11px;
+    font-family: verdana;
+    padding: 4px 4px 4px 4px; 
+    border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px; 
+    box-shadow: 0px 0px 8px #d9d9d9; 
+    -moz-box-shadow: 0px 0px 8px #d9d9d9; 
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9; 
+}
+#entry-panel input[type="range"]:focus
+{
+    outline: none; 
+    border: 1px solid #7bc1f7; 
+    box-shadow: 0px 0px 8px #7bc1f7; 
+    -moz-box-shadow: 0px 0px 8px #7bc1f7; 
+    -webkit-box-shadow: 0px 0px 8px #7bc1f7; 
+}
+#entry-panel textArea
+{
+    border: 1px solid #c4c4c4; 
+    height: 120px; 
+    width: 150px; 
+    font-size: 11px;
+    font-family: verdana;
+    padding: 4px 4px 4px 4px; 
+    border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px; 
+    box-shadow: 0px 0px 8px #d9d9d9; 
+    -moz-box-shadow: 0px 0px 8px #d9d9d9; 
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9; 
+}
+#entry-panel textArea:focus
+{
+    outline: none; 
+    border: 1px solid #7bc1f7; 
+    box-shadow: 0px 0px 8px #7bc1f7; 
+    -moz-box-shadow: 0px 0px 8px #7bc1f7; 
+    -webkit-box-shadow: 0px 0px 8px #7bc1f7; 
+}
+
+#entry-panel select
+{
+    border: 1px solid #c4c4c4; 
+    height: 28px; 
+    width: 150px; 
+    font-size: 11px;
+    font-family: verdana;
+    //padding: 4px 4px 4px 4px; 
+    border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px; 
+    box-shadow: 0px 0px 8px #d9d9d9; 
+    -moz-box-shadow: 0px 0px 8px #d9d9d9; 
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9; 
+}
+
+#entry-panel select :focus
+{
+    outline: none; 
+    border: 1px solid #7bc1f7; 
+    box-shadow: 0px 0px 8px #7bc1f7; 
+    -moz-box-shadow: 0px 0px 8px #7bc1f7; 
+    -webkit-box-shadow: 0px 0px 8px #7bc1f7; 
+}
+#entry-panel td
+{
+    vertical-align: text-top;
+    padding-left: 5px;
+    padding-bottom: 3px;
+    font-family: verdana;
+    font-size: 11px;
+}
+/*********************End Entry Panel Table************************************/

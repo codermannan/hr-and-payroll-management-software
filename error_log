@@ -1,0 +1,11 @@
+[04-Oct-2016 00:19:21 Asia/Dhaka] PHP Fatal error:  Call to undefined method Operation_Model::listOfData() in /home/datastat/public_html/diganta/application/controllers/employee.php on line 292
+[04-Oct-2016 00:19:25 Asia/Dhaka] PHP Fatal error:  Call to undefined method Operation_Model::listOfData() in /home/datastat/public_html/diganta/application/controllers/employee.php on line 292
+[04-Oct-2016 00:30:29 Asia/Dhaka] PHP Parse error:  syntax error, unexpected ')' in /home/datastat/public_html/diganta/application/models/operation_model.php on line 16
+[04-Oct-2016 00:31:25 Asia/Dhaka] PHP Parse error:  syntax error, unexpected ')' in /home/datastat/public_html/diganta/application/models/operation_model.php on line 16
+[04-Oct-2016 00:32:16 Asia/Dhaka] PHP Parse error:  syntax error, unexpected ')' in /home/datastat/public_html/diganta/application/models/operation_model.php on line 17
+[04-Oct-2016 00:33:10 Asia/Dhaka] PHP Parse error:  syntax error, unexpected ')' in /home/datastat/public_html/diganta/application/models/operation_model.php on line 17
+[04-Oct-2016 00:36:20 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/datastat/public_html/diganta/application/models/operation_model.php on line 13
+[04-Oct-2016 00:37:03 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/datastat/public_html/diganta/application/models/operation_model.php on line 13
+[04-Oct-2016 00:37:20 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/datastat/public_html/diganta/application/models/operation_model.php on line 13
+[07-Oct-2016 17:09:45 Asia/Dhaka] PHP Fatal error:  Call to undefined function Barcode39() in /home/datastat/public_html/diganta/application/controllers/barcode.php on line 57
+[29-Nov-2016 20:50:33 Asia/Dhaka] PHP Fatal error:  Call to undefined function Barcode39() in /home/datastat/public_html/diganta/application/controllers/barcode.php on line 57
